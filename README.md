@@ -8,11 +8,7 @@ Get all My Basic Data 📜!!
 
 ### Welcome to my GIT Hub page , Hellow dear Devs, and lol kangers ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-- My Gmail ---- >>> }}}
-
-<a href="purushottam.prof@gmail.com">
-
-  <img align="left" alt="'Gmail" width="60px" src="https://telegra.ph/file/6bcaea595e820006cfd03.png" />
+- My Gmail ---- >>> }}} <a href="purushottam.prof@gmail.com"> <img align="left" alt="'Gmail" width="60px" src="https://telegra.ph/file/6bcaea595e820006cfd03.png" />
 
 </a>
 

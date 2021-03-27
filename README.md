@@ -12,7 +12,7 @@ Get all My Basic Data 📜!!
 
 <a href="purushottam.prof@gmail.com">
 
-  <img align="left" alt="'Gmail" width="21px" src="https://telegra.ph/file/6bcaea595e820006cfd03.png" />
+  <img align="left" alt="'Gmail" width="60px" src="https://telegra.ph/file/6bcaea595e820006cfd03.png" />
 
 </a>
 
